@@ -1,2 +1,2 @@
-# MineWeeper
-Aiman and Olivia's Project 2 Minesweeper
+# MineSweeper
+Olivia's Project 2 Minesweeper
